@@ -7,6 +7,9 @@ The RSA Algorithm is a Asymmetric cryptographic algortihm. It is the most secure
 - <pre>Give the text you like to encrypt/sign it.</pre>
 - <pre>And then by pressing 'y' you can also decrypt the message there it self.</pre>
 
+# Disclaimer 😈
+- All the information on this profile are meant for developing Hacker Defense attitude among the users and help preventing the hack attacks. I insists that these information shall not be used for causing any kind of damage directly or indirectly. However you may try these codes on your own computer at your own risk.
+
 # Connect with me
 
 - <a href="https://twitter.com/S_Tarun_" style="font-size:16px;">Twitter</a> 
